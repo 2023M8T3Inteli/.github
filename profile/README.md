@@ -11,19 +11,19 @@ Analise e criação de uma estratégia para categorização de  fornecedores e n
 ## 💻 Projeto de arquitetura de software:
 
 - Grupo 1 - Archicreators
-  - Link do repositório: https://github.com/2023M8T3Inteli/Grupo-01
+  - Link do repositório: https://github.com/InteliProjects/2023M8T3Inteli-Grupo-01
 
 - Grupo 2 - Metaleiros
-  - Link do repositório: https://github.com/2023M8T3Inteli/Grupo-02
+  - Link do repositório: https://github.com/InteliProjects/2023M8T3Inteli-Grupo-02
 
 - Grupo 3
-  - Link do repositório: https://github.com/2023M8T3Inteli/Grupo-03
+  - Link do repositório: https://github.com/InteliProjects/2023M8T3Inteli-Grupo-03
 
 - Grupo 4 - Meta+3
-  - Link do repositório: https://github.com/2023M8T3Inteli/Grupo-04
+  - Link do repositório: https://github.com/InteliProjects/2023M8T3Inteli-Grupo-04
 
 - Grupo 5 - MetaVerse
-  - Link do repositório: https://github.com/2023M8T3Inteli/Grupo-05
+  - Link do repositório: https://github.com/InteliProjects/2023M8T3Inteli-Grupo-05
 
 - Grupo 6 - Metatesters
   - Link do repositório: https://github.com/2023M8T3Inteli/Grupo-06
