@@ -26,4 +26,4 @@ Analise e criação de uma estratégia para categorização de  fornecedores e n
   - Link do repositório: https://github.com/InteliProjects/2023M8T3Inteli-Grupo-05
 
 - Grupo 6 - Metatesters
-  - Link do repositório: https://github.com/2023M8T3Inteli/Grupo-06
+  - Link do repositório: https://github.com/InteliProjects/2023M8T3Inteli-Grupo-06
